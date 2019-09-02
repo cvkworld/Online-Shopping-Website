@@ -7,4 +7,4 @@ able to choose to add it to his basket. He will then be able to consult his bask
 possibly delete or modify the quantities of certain items, then validate it to start the
 order.
 
-For more details you can see documents where I mention some screeshot about project.
+For more details you can see documents where I mention some screenshot about project.
